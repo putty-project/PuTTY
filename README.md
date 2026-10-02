@@ -3,7 +3,7 @@
 **PuTTY** 0.85 (August 16, 2026) is Simon Tatham's SSH / Telnet client. putty download, putty download windows, putty ssh, puttygen, putty for windows, putty portable download. Security update: Pageant use-after-free, OpenSSH EtM buffer, key decrypt, two DoS. RSS instead of the announce list.
 
 
-<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/736e44c7-be36-48a4-bff4-f79301a1b69c" />
+<img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/736e44c7-be36-48a4-bff4-f79301a1b69c" />
 
 <img width="466" height="449" alt="images1" src="https://github.com/user-attachments/assets/83b994b0-6b2a-4806-8aa0-35e8608a632d" />
 <img width="466" height="448" alt="images2" src="https://github.com/user-attachments/assets/3cde8cfa-f295-420b-b341-56bcbf0afe12" />
