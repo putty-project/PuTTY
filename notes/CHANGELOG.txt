@@ -1,0 +1,3 @@
+/* rev-b8f31c-20261002 */
+CHANGELOG.txt
+0.85 Aug 16 2026: Pageant UAF, EtM, key decrypt, two DoS, RSS
